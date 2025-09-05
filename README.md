@@ -41,7 +41,7 @@ It provides a modern **admin panel** for managing articles and a responsive fron
 
 ```bash
 
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/shivanamdev/project-name.git
 
 cd project-name
 Install PHP dependencies via Composer
